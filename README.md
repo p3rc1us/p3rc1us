@@ -1,4 +1,4 @@
-<img src='https://randommeme-five.vercel.app/' style="height: 1000px;", "width: 1000px;" />
+<img src='https://randommeme-five.vercel.app/' style="height: 1000px; width: 800px"/>
 <br/>
 <br/>
 <br/>
