@@ -28,4 +28,4 @@
 <br/>
 <br/>
 <br/>
-⚡ Fun fact: "wala ka pong makikita dito hehez"
+⚡ Fun fact: "my contribution chart is going loco"
