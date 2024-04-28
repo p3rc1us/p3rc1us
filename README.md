@@ -22,7 +22,6 @@
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=p3rc1us&icon=3&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
