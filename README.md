@@ -14,7 +14,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=p3rc1us&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Memes
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
