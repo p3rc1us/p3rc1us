@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently practicing Ruby<br>
+🔭 Ruby is the best!<br>
 
 
 # 💻 Tech Stack:
