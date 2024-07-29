@@ -20,6 +20,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=p3rc1us&icon=7&color=12)](https://visitcount.itsvg.in)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/blader0809)
+![Leetcode Stats](https://leetcard.jacoblin.cool/p3rc1us)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
