@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Ruby is the best!<br>
+🔭 <i>Coding is beauty in complexity</i><br>
 
 
 # 💻 Tech Stack:
