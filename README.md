@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 <i>Coding is beauty in complexity</i><br>
+<i>🔭</i><br>
 
 
 # 💻 Tech Stack:
