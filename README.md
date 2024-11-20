@@ -1,5 +1,5 @@
 # 💫 About Me:
-<i>🔭</i><br>
+<i>🔭From Fixing Airplanes to Fixing Bugs</i><br>
 
 
 # 💻 Tech Stack:
